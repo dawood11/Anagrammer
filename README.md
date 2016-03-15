@@ -24,37 +24,37 @@ F. eks:<br />
 Disse ordene er anagrammer av hverandre<br /><br />
  
 Ordliste<br /><br />
-alt med <br />
-altfor mor <br />
-andre navn <br />
-at ned <br />
-bar nede <br />
-bra niste <br />
-bry ord <br />
-byr ordet<br />
-dem rad<br />
-den rette<br />
-denne ristet<br />
-dra rod<br />
-drev rokk<br />
-drikke rom<br />
-dro rå<br />
-ende sen <br />
-enden sitter <br />
-engang skinte <br />
-ens steinhelle <br />
-etter stien <br />
-gangen stuen<br />
-gift støl<br />
-gikk suten <br />
-gilde søsteren <br />
-hellestein søstrene <br />
-hun ta<br />
-hus tolv <br />
-kisten torde <br />
-krok truet <br />
-lovt turte<br />
-lysnet vann<br />
-lysten år<br />
+alt       med <br />
+altfor       mor <br />
+andre       navn <br />
+at       ned <br />
+bar       nede <br />
+bra       niste <br />
+bry       ord <br />
+byr       ordet<br />
+dem       rad<br />
+den       rette<br />
+denne       ristet<br />
+dra       rod<br />
+drev       rokk<br />
+drikke       rom<br />
+dro       rå<br />
+ende       sen <br />
+enden       sitter <br />
+engang       skinte <br />
+ens       steinhelle <br />
+etter       stien <br />
+gangen       stuen<br />
+gift       støl<br />
+gikk       suten <br />
+gilde       søsteren <br />
+hellestein       søstrene <br />
+hun       ta<br />
+hus       tolv <br />
+kisten       torde <br />
+krok       truet <br />
+lovt       turte<br />
+lysnet       vann<br />
+lysten       år<br />
 løst<br />
 <br />
