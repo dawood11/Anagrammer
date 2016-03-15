@@ -32,5 +32,5 @@ dro rå
 ende sen enden sitter engang skinte ens steinhelle etter stien gangen stuen
 gift støl
 gikk suten gilde søsteren hellestein søstrene hun ta
-hus tolv kisten torde krok truet lovt turte lysnet vann lysten år
+hus tolv kisten torde krok truet lovt turte lysnet vann lysten år\n
 løst
